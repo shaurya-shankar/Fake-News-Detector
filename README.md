@@ -27,3 +27,6 @@ https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
 - Sample predictions
 
 ## 📁 Project Structure
+Fake-News-Detector/
+├── Fake_News_Detection.ipynb
+├── README.md
