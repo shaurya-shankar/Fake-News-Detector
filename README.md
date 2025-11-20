@@ -30,3 +30,15 @@ https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
 Fake-News-Detector/
 ├── Fake_News_Detection.ipynb
 ├── README.md
+
+
+
+
+## ✨ Future Improvements
+- Use TF-IDF, advanced NLP models
+- Add live news prediction UI
+- Larger and more diverse datasets
+
+---
+
+Feel free to ⭐ the repository if you like it!
